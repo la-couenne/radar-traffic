@@ -12,8 +12,7 @@ https://youtu.be/C5yqAdc1bE0
 
 # Install OpenCV:
 ```shell
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+> sudo apt-get install python-opencv
 ```
 
 # Sources:
