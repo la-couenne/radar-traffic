@@ -11,9 +11,10 @@ The principle is very simple, with OpenCV we detect the movements located in the
 https://youtu.be/C5yqAdc1bE0
 
 # Install OpenCV:
-'''shell
-sudo apt-get install python-opencv
-'''
+```shell
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+```
 
 # Sources:
 https://opencv.org
